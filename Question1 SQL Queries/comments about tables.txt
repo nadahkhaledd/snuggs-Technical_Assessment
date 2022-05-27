@@ -1,0 +1,2 @@
+the table with columns: orderid, productid 
+didn't have a specific name so it is named as (sales).
