@@ -1,2 +1,4 @@
-the table with columns: orderid, productid 
+- table (order) is name as (orders) as order is an existing reserved word.
+
+- the table with columns: orderid, productid 
 didn't have a specific name so it is named as (sales).
